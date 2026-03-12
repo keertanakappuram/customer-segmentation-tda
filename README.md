@@ -58,7 +58,7 @@ Traditional clustering methods like K-Means struggle to capture complex, non-lin
 ## 🎬 Presentation
 
 A full video walkthrough of the project methodology and findings is included here-
-https://github.com/keertanakappuram/TOPOLOGICAL-DATA-ANALYSIS-FOR-CUSTOMER-SEGMENTATION-AND-BEHAVIORAL-ANALYSIS-IN-E--COMMERCE/blob/main/Keertana%20Kappuram-DSC%20214-%20Presentation.mp4
+https://github.com/user-attachments/assets/10ce6188-b234-4776-ba63-546627f44638
 
 ---
 
