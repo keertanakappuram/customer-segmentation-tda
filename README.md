@@ -1,4 +1,4 @@
-# 🔺 Topological Data Analysis for Customer Segmentation & Behavioral Analysis in E-Commerce
+# Topological Data Analysis for Customer Segmentation & Behavioral Analysis in E-Commerce
 
 > Using **Mapper** and **Persistent Homology** to uncover multi-scale customer behavioral patterns and build interpretable segmentation graphs for e-commerce purchase forecasting.
 
@@ -58,7 +58,7 @@ Traditional clustering methods like K-Means struggle to capture complex, non-lin
 ## 🎬 Presentation
 
 A full video walkthrough of the project methodology and findings is included here-
-https://github.com/user-attachments/assets/10ce6188-b234-4776-ba63-546627f44638
+<video src="https://github.com/user-attachments/assets/10ce6188-b234-4776-ba63-546627f44638" controls width="100%"></video>
 
 ---
 
