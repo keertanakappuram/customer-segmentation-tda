@@ -44,11 +44,11 @@ Traditional clustering methods like K-Means struggle to capture complex, non-lin
 ## 📁 Repository Structure
 
 ```
-├── Keertana_Kappuram_DSC_214_Code.ipynb       # Full pipeline notebook with outputs
-├── keertana_kappuram_dsc_214_code.py          # Clean Python script version
+├── tda_customer_segmentation.ipynb       # Full pipeline notebook with outputs
+├── tda_customer_segmentation.py          # Clean Python script version
 ├── Dataset/                                   # Dataset files
-├── Keertana Kappuram-DSC 214-Report.pdf       # Full project report
-├── Keertana Kappuram-DSC 214-Presentation.mp4 # Video presentation
+├── Report.pdf       # Full project report
+├── Presentation.mp4 # Video presentation
 ├── requirements.txt                           # Python dependencies
 └── README.md
 ```
