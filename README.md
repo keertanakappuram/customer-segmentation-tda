@@ -6,7 +6,7 @@
 
 ## 🎯 Problem
 
-Traditional clustering methods like K-Means struggle to capture complex, non-linear relationships in customer behavior. This project applies **Topological Data Analysis (TDA)** — a mathematically rigorous approach that preserves the shape and structure of data — to segment e-commerce customers and evaluate whether topological features improve purchase prediction.
+Traditional clustering methods like K-Means struggle to capture complex, non-linear relationships in customer behavior. This project applies **Topological Data Analysis (TDA)** - a mathematically rigorous approach that preserves the shape and structure of data - to segment e-commerce customers and evaluate whether topological features improve purchase prediction.
 
 ---
 
