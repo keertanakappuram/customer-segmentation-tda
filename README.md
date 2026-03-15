@@ -72,8 +72,8 @@ The e-commerce behavioral dataset used in this project can be downloaded [here](
 
 1. Clone the repository
 ```bash
-git clone https://github.com/keertanakappuram/TOPOLOGICAL-DATA-ANALYSIS-FOR-CUSTOMER-SEGMENTATION-AND-BEHAVIORAL-ANALYSIS-IN-E--COMMERCE.git
-cd TOPOLOGICAL-DATA-ANALYSIS-FOR-CUSTOMER-SEGMENTATION-AND-BEHAVIORAL-ANALYSIS-IN-E--COMMERCE
+git clone https://github.com/keertanakappuram/customer-segmentation-tda.git
+cd customer-segmentation-tda
 ```
 
 2. Install dependencies
